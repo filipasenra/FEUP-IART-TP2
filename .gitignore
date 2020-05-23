@@ -3,4 +3,5 @@ bin/
 etc/
 lib/
 share/
+.idea/*
 *.cfg
